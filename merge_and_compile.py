@@ -30,6 +30,9 @@ PROXY_URLS = [
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/ai.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/stream.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/telegram.json",
+    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/ip/ai.json",
+    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/ip/stream.json",
+    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/ip/telegram.json",
 ]
 
 REJECT_URLS = [
@@ -40,6 +43,7 @@ REJECT_URLS = [
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/reject-drop.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/reject-no-drop.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/sogouinput.json",
+    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/ip/reject.json",
 ]
 
 IP_URLS = [
