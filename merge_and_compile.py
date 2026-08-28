@@ -10,6 +10,7 @@ import ipaddress
 # -----------------------------
 
 DIRECT_URLS = [
+    "https://raw.githubusercontent.com/jackszb/iphone-sukka/main/direct_custom_rules.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/domainset/apple_cdn.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/apple_cdn.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/apple_cn.json",
