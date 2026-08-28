@@ -58,7 +58,6 @@ ALLOWED_KEYS = {
     "domain",
     "domain_suffix",
     "domain_keyword",
-    "domain_regex",
     "ip_cidr",
 }
 
@@ -69,13 +68,12 @@ COMPILE_TIMEOUT = 60
 
 # 生成 .list (Clash 规则集文本格式) 时，字段名 -> 规则类型前缀 的映射
 # 以及输出顺序（保证同类规则聚在一起，并用空行分隔各类型，风格与示例一致）
-LIST_FIELD_ORDER = ["domain", "domain_suffix", "domain_keyword", "domain_regex", "ip_cidr"]
+LIST_FIELD_ORDER = ["domain", "domain_suffix", "domain_keyword", "ip_cidr"]
 
 LIST_RULE_TYPE = {
     "domain": "DOMAIN",
     "domain_suffix": "DOMAIN-SUFFIX",
     "domain_keyword": "DOMAIN-KEYWORD",
-    "domain_regex": "DOMAIN-REGEX",
     "ip_cidr": "IP-CIDR",
 }
 
