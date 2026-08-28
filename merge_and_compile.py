@@ -44,6 +44,7 @@ REJECT_URLS = [
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/reject-no-drop.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/sogouinput.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/ip/reject.json",
+    "https://raw.githubusercontent.com/jackszb/ads-ips/main/adguard-ip.json",
 ]
 
 IP_URLS = [
