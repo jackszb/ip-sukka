@@ -481,7 +481,6 @@ DOMAIN,cache.sgvafs.com
 DOMAIN,cache.video.iqiyi.com
 DOMAIN,cached.rebuyengine.com
 DOMAIN,cafe.github.com
-DOMAIN,canary.mask.apple-dns.net
 DOMAIN,canny-assets.io
 DOMAIN,canvas-lb.tubitv.com
 DOMAIN,cartodb-basemaps-a.global.ssl.fastly.net
@@ -2133,11 +2132,6 @@ DOMAIN,marfeelexperimentsexperienceengine.mrf.io
 DOMAIN,marketing.figma.com
 DOMAIN,marketing.thingiverse.com
 DOMAIN,marketplace-web-assets.vinted.com
-DOMAIN,mask-api.icloud.com
-DOMAIN,mask-canary.icloud.com
-DOMAIN,mask-h2.icloud.com
-DOMAIN,mask.apple-dns.net
-DOMAIN,mask.icloud.com
 DOMAIN,mcdn.vrporn.com
 DOMAIN,mcdnds.vrporn.com
 DOMAIN,mcdns.vrporn.com
