@@ -2,17 +2,6 @@
   "version": 3,
   "rules": [
     {
-      "domain_keyword": [
-        "cnki.net",
-        "deepdyve",
-        "els-cdn",
-        "elsevier",
-        "pkulaw",
-        "readcube",
-        "sciencedirect",
-        "wanfangdata",
-        "westlawchina"
-      ],
       "domain": [
         "acg.tv",
         "ali-safety-video.acfun.cn",
@@ -1303,6 +1292,17 @@
         "zuimeitianqi.com",
         "zuoyebang.com",
         "zybang.com"
+      ],
+      "domain_keyword": [
+        "cnki.net",
+        "deepdyve",
+        "els-cdn",
+        "elsevier",
+        "pkulaw",
+        "readcube",
+        "sciencedirect",
+        "wanfangdata",
+        "westlawchina"
       ]
     }
   ]
