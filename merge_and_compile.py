@@ -43,7 +43,6 @@ REJECT_URLS = [
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/reject-no-drop.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/sogouinput.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/ip/reject.json",
-    "https://raw.githubusercontent.com/jackszb/ads-ips/main/adguard-ip.json",
 ]
 
 IP_URLS = [
@@ -296,7 +295,7 @@ def save_json_and_compile(master_rules, json_file, srs_file, allowed_keys=None, 
             final_rule["ip_cidr"] = sort_ip_list(ip_values)
 
     data = {
-        "version": 3,
+        "version": 5,
         "rules": [final_rule]
     }
 
