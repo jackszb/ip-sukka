@@ -17,6 +17,7 @@ DIRECT_URLS = [
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/domestic.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/direct.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/lan.json",
+    "https://raw.githubusercontent.com/jackszb/ip-sukka/main/direct_custom_rules.json",
 ]
 
 PROXY_URLS = [
