@@ -3557,7 +3557,6 @@ DOMAIN-SUFFIX,a7s.imgix.com
 DOMAIN-SUFFIX,aaa.com
 DOMAIN-SUFFIX,aacdn.nagich.com
 DOMAIN-SUFFIX,aadrm.com
-DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,aayinltcs.arduino.cc
 DOMAIN-SUFFIX,abc-cdn.net.au
 DOMAIN-SUFFIX,abc.com
@@ -3667,20 +3666,12 @@ DOMAIN-SUFFIX,app.khoros.com
 DOMAIN-SUFFIX,app.render.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,apperoni.top
-DOMAIN-SUFFIX,apple-cloudkit.com
-DOMAIN-SUFFIX,apple-dns.net
-DOMAIN-SUFFIX,apple-mapkit.com
-DOMAIN-SUFFIX,apple.co
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,applemusic.com
 DOMAIN-SUFFIX,applicationinsights.azure.cn
 DOMAIN-SUFFIX,applicationinsights.azure.com
 DOMAIN-SUFFIX,appmifile.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,appspot.com
-DOMAIN-SUFFIX,appsto.re
-DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,aptoide.com
 DOMAIN-SUFFIX,arc.net
 DOMAIN-SUFFIX,archive-it.org
@@ -3871,7 +3862,6 @@ DOMAIN-SUFFIX,cbsivideo.com
 DOMAIN-SUFFIX,cbslocal.com
 DOMAIN-SUFFIX,cbsnews.com
 DOMAIN-SUFFIX,cbsnewsstatic.com
-DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,cdn-centaurus.com
 DOMAIN-SUFFIX,cdn-cookieyes.com
 DOMAIN-SUFFIX,cdn-lfs-eu-1.hf.co
@@ -4636,8 +4626,6 @@ DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN-SUFFIX,icann.org
 DOMAIN-SUFFIX,icfcdn.com
-DOMAIN-SUFFIX,icloud-content.com
-DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icon.horse
 DOMAIN-SUFFIX,iconfinder.com
 DOMAIN-SUFFIX,id
@@ -4804,7 +4792,6 @@ DOMAIN-SUFFIX,it
 DOMAIN-SUFFIX,itasoftware.com
 DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,itsre-sumo.mozilla.net
-DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,itv.com
 DOMAIN-SUFFIX,itvstatic.com
 DOMAIN-SUFFIX,iwara.tv
@@ -5004,7 +4991,6 @@ DOMAIN-SUFFIX,maxjav.com
 DOMAIN-SUFFIX,mayoclinic.org
 DOMAIN-SUFFIX,mcusercontent.com
 DOMAIN-SUFFIX,md
-DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,medallia.com
 DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,media-imdb.com
@@ -5279,7 +5265,6 @@ DOMAIN-SUFFIX,operacdn.com
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,orbstack.dev
 DOMAIN-SUFFIX,oreillystatic.com
-DOMAIN-SUFFIX,organicfruitapps.com
 DOMAIN-SUFFIX,orionbrowser.com
 DOMAIN-SUFFIX,osmand.net
 DOMAIN-SUFFIX,otstatic.com
@@ -5445,7 +5430,6 @@ DOMAIN-SUFFIX,ptt.cc
 DOMAIN-SUFFIX,pttweb.cc
 DOMAIN-SUFFIX,public-trust.com
 DOMAIN-SUFFIX,public.cdn.office.net
-DOMAIN-SUFFIX,push-apple.com.akadns.net
 DOMAIN-SUFFIX,push.services.mozilla.com
 DOMAIN-SUFFIX,pusher.com
 DOMAIN-SUFFIX,px-cloud.net
@@ -6302,7 +6286,6 @@ IP-CIDR,4.197.172.116/32,no-resolve
 IP-CIDR,4.217.235.100/32,no-resolve
 IP-CIDR,4.245.198.13/32,no-resolve
 IP-CIDR,13.71.25.29/32,no-resolve
-IP-CIDR,17.0.0.0/8,no-resolve
 IP-CIDR,20.74.221.21/32,no-resolve
 IP-CIDR,20.162.96.163/32,no-resolve
 IP-CIDR,20.168.48.117/32,no-resolve
