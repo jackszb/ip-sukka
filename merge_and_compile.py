@@ -48,7 +48,6 @@ REJECT_URLS = [
 
 IP_URLS = [
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/ip/china_ip.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/ip/domestic.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/ip/lan.json",
 ]
 
